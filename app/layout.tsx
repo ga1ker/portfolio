@@ -39,7 +39,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="es">
+    <html lang="es" className="bg-slate-950">
       <body className={`${poppins.variable} font-sans antialiased`}>
         {children}
         <Analytics />
