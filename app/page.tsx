@@ -181,7 +181,7 @@ export default function Portfolio() {
                 GitHub
               </Button>
             </a>
-            <a href="https://linkedin.com/in/gadiel-alcazar" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/gadiel-alcazar-bernal-281370299/" target="_blank" rel="noopener noreferrer">
               <Button
                 variant="outline"
                 size="lg"
@@ -556,7 +556,7 @@ export default function Portfolio() {
               <span className="text-sm text-slate-400 group-hover:text-cyan-400 transition-colors">GitHub</span>
             </a>
             <a
-              href="https://linkedin.com/in/gadiel-alcazar"
+              href="https://www.linkedin.com/in/gadiel-alcazar-bernal-281370299/"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-2"
